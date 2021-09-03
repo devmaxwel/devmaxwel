@@ -1,18 +1,17 @@
-### Hi there Welcome to Maxwel Ochieng Github Stats
+### Hi there i'm [Maxwel](https://devmaxwel.github.io/portfolio/)
+Hi, I'm Maxwel Ochieng, a passionate self-taught FrontEnd developer from Kenya.
 
-<!--
-**devmaxwel/devmaxwel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [dev-max(webpro)]()
+- 🌱 I’m currently learning Web Design
+- 👯 I’m looking to collaborate [Github Readme Stats]()
+- 💬 Ask me about anything[here]()
+- 📫 How to reach me: [Whatsapp](wa.me/254704407239)
+- ⚡ Fun fact: I am Chelsea Fan.
 
-Here are some ideas to get you started:
+## Languages And Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmaxwel&theme=radical)
 
--->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=devmaxwel&count_private-true&show_icons-truetheme=radical)
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=devmaxwel&count_private-true&show_icons-truetheme=radical)
