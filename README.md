@@ -2,10 +2,10 @@
 Hi, I'm Maxwel Ochieng, a passionate self-taught FrontEnd developer from Kenya.
 
 - 🔭 I’m currently working on [dev-max(webpro)](https://github.com/devmaxwel/devmaxwel-Netflix.github.io)
-- 🌱 I’m currently learning Web Design
+- 🌱 I’m currently learning React JS & Native.
 - 👯 I’m looking to collaborate [Github Readme Stats]()
-- 💬 Ask me about anything[here]()
-- 📫 How to reach me: [Call](tel:+254704407239)
+- 💬 Ask me about anything [here](https://github.com/devmaxwel/devmaxwel-Netflix.github.io)
+
 - ⚡ Fun fact: I am Chelsea Fan.
 
 ## Languages And Tools
