@@ -3,7 +3,7 @@ Hi, I'm Maxwel Ochieng, a passionate self-taught Frontend && UI/UX Developer fro
 
 - 🔭 I’m currently working on [dev-max(webpro)](https://github.com/devmaxwel/devmaxwel-Netflix.github.io)
 - 🌱 I’m currently learning React JS & Native.
-- 👯 I’m looking to collaborate [Github Readme Stats]()
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/devmaxwel/devmaxwel-Netflix.github.io)
 
 - ⚡ Fun fact: I am Chelsea Fan.
