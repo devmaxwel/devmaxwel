@@ -1,5 +1,5 @@
 ### Hi there i'm [Maxwel Ochieng](https://devmaxwel.github.io/portfolio/)
-Hi, I'm Maxwel Ochieng, a passionate self-taught FrontEnd developer from Kenya.
+Hi, I'm Maxwel Ochieng, a passionate self-taught FrontEnd && UI/UX Developer from Kenya.
 
 - 🔭 I’m currently working on [dev-max(webpro)](https://github.com/devmaxwel/devmaxwel-Netflix.github.io)
 - 🌱 I’m currently learning React JS & Native.
