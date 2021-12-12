@@ -6,7 +6,7 @@
 
 ## OpenLabsKE (React Fullstack Engineer) Lead 
 ## Google Certified - Mobile Web Speacialist.
-## I am JavaScript React & React Native Developer.
+## I am React & Flutter Fullstack Engineer.
 
 
 - 🌱 I’m currently learning JS React & React Native
