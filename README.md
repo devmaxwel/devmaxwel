@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=https://devmaxwel.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fhttps://devmaxwel.github.io/portfolio/)](https://devmaxwel.github.io/portfolio)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mochieng_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmochieng_&screen_name=mochieng_)
 
-## Jamii Compassionate (System Engineer)
+
 ## OpenLabsKE (React Fullstack Engineer) Lead 
 ## React & Flutter Fullstack Engineer.
 
