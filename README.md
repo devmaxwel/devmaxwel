@@ -15,7 +15,7 @@
 - Ask me about anything [here](https://devmaxwel.github.io/portfolio/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmaxwel&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmaxwel&show_icons=true&theme=radical)
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -34,7 +34,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmaxwel)](https://github.com/devmaxwel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmaxwel&layout=compact)](https://github.com/devmaxwel/github-readme-stats)
 <br />
 <br />
 
