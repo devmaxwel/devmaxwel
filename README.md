@@ -15,7 +15,7 @@
 - Ask me about anything [here](https://devmaxwel.github.io/portfolio/)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=devmaxwel&count_private-true&show_icons-truetheme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmaxwel&show_icons=true)
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
