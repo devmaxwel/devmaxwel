@@ -5,7 +5,7 @@
 
 
 # JavaScript Developer 
-## with entry mid-level skills in backend(Firebase firestore, storage, functions & Nodejs,express Js frameworks)
+## with entry mid-level skills in backend(Nodejs,express Js frameworks)
 
 
 
