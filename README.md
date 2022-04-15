@@ -4,8 +4,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mochieng_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmochieng_&screen_name=mochieng_)
 
 
-# JavaScript Developer 
-## with entry mid-level skills in backend(Nodejs,Express JavaScript framework & MongoDB)
+# JavaScript Developer
+## I Develope for the Web using this stacks((React-JavaScript,Next-JavaScript, Tailwind CSS))
+- Redux
+- Reusable Components
+- Server Side Rendering
+- Recoil
+- HeroIcons Tailwind Library
+- NPM library
+### with entry mid-level skills in backend(Nodejs,Express JavaScript framework & MongoDB)
 
 
 
