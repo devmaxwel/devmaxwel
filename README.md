@@ -5,7 +5,7 @@
 
 
 # JavaScript Developer
-## I Develope for the Web using this stacks((React-JavaScript,Next-JavaScript, Tailwind CSS))
+## I Develop for the Web using this stacks((React-JavaScript,Next-JavaScript, Tailwind CSS))
 - Redux
 - Reusable Components
 - Server Side Rendering
