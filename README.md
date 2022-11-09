@@ -1,5 +1,6 @@
 ### Hi there, I'm Maxwel Ochieng
 
+
 [![Website](https://img.shields.io/website?label=https://devmaxwel.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fhttps://devmaxwel.github.io/portfolio/)](https://devmaxwel.github.io/portfolio)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mochieng_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmochieng_&screen_name=mochieng_)
 
@@ -15,15 +16,16 @@
 ### with entry mid-level skills in backend(Nodejs,Express JavaScript framework & MongoDB)
 
 
-
 - 🌱 I’m currently doing React JavaScript , RESTFUL Architecture, Plain NodeJs && White Ethical Hacking Cyber Security
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am Chelsea Fan and I love watching Military action Movies.
 - Ask me about anything [here](https://devmaxwel.github.io/portfolio/)
+- 
+<a href="http://www.github.com/devmaxwel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devmaxwel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmaxwel&show_icons=true&theme=radical)
+![Maxwel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmaxwel&show_icons=true&theme=radical)
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -59,6 +61,9 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+
+<a href="http://www.github.com/devmaxwel"><img src="https://activity-graph.herokuapp.com/graph?username=devmaxwel&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
