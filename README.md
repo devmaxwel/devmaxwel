@@ -1,74 +1,40 @@
-### Hi there, I'm Maxwel Ochieng
+Hi 👋 My name is Maxwel ochieng
+===============================
 
 
-[![Website](https://img.shields.io/website?label=https://devmaxwel.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fhttps://devmaxwel.github.io/portfolio/)](https://devmaxwel.github.io/portfolio)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mochieng_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmochieng_&screen_name=mochieng_)
+Backend Engineer
+----------------
+
+Hey there! I'm a passionate software developer with a strong focus on backend engineering. With expertise in Node.js, Express, Postgres, and MongoDB, I love building scalable and efficient APIs that power amazing user experiences. But that's not all! I also have extensive experience in frontend development, working with technologies like React.js, Next.js, and Tailwind to create beautiful and responsive interfaces. What sets me apart from other developers is my deep understanding of DevOps. I'm proficient with Jenkins, Kubernetes, Docker, and container orchestration, and have experience deploying and managing applications on GCP. I'm also skilled in Ansible, allowing me to automate complex infrastructure tasks and improve efficiency. Whether you're looking for a backend engineer or a full-stack developer with strong DevOps skills, I'm your guy. Let's collaborate and create something amazing together!
 
 
-# JavaScript Developer
-## I Develop for the Web using this stacks((React-JavaScript,Next-JavaScript, Tailwind CSS))
-- Redux
-- Reusable Components
-- Server Side Rendering
-- Recoil
-- HeroIcons Tailwind Library
-- NPM library
-### with entry mid-level skills in backend(Nodejs,Express JavaScript framework & MongoDB)
+* 🌍  I'm based in Nairobi
+* 🖥️  See my portfolio at [devmaxwel.com](http://devmaxwel.com)
+* ✉️  You can contact me at [eng.maxwel.ochieng@gmail.com](mailto:eng.maxwel.ochieng@gmail.com)
+* 🚀  I'm currently working on [EFAC ADMIN DASHBOARD](http://admin.efacke.org)
+* 🧠  I'm learning DEVOPS ENGINEERING
+
+<a href="https://www.github.com/devmaxwel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/devmaxwel?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitter.com/mochieng_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/mochieng_?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"/></a>
+
+### Skills
 
 
-- 🌱 I’m currently doing React JavaScript , RESTFUL Architecture, Plain NodeJs && White Ethical Hacking Cyber Security
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am Chelsea Fan and I love watching Military action Movies.
-- Ask me about anything [here](https://devmaxwel.github.io/portfolio/)
-- 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a></p>
+
+### Socials<p align="left"> <a href="https://www.dev.to/devmaxwel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/devmaxwel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mochieng_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mochieng_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
 <a href="http://www.github.com/devmaxwel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devmaxwel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="https://github.com/devmaxwel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaxwel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![Maxwel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmaxwel&show_icons=true&theme=radical)
+### Support Me
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmaxwel&layout=compact)](https://github.com/devmaxwel/github-readme-stats)
-<br />
-<br />
-
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](#) in [coming-soon](#)
-3. ❌ Closed PR [#11](#) in [coming soon](#)
-4. 🗣 Commented on [#11](#)
-5. 🎉 Merged PR [#10](#) in [coming soon](#)
-<!--END_SECTION:activity-->
-
-</details>
-
-
-<a href="http://www.github.com/devmaxwel"><img src="https://activity-graph.herokuapp.com/graph?username=devmaxwel&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-
-[website]: https://devmaxwel.github.io/portfolio/
-[twitter]: https://twitter.com/mochieng_
-[instagram]: https://instagram.com/devmaxwel
-[linkedin]: https://www.linkedin.com/in/maxwel-ochieng-b500471b0/
+<a href="https://www.buymeacoffee.com/mochieng"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
