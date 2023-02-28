@@ -1,4 +1,4 @@
-Hi 👋 My name is Maxwel ochieng
+Hi 👋 My name is Maxwel Ochieng
 ===============================
 
 
