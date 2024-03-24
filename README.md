@@ -9,7 +9,6 @@ Hey there! I'm a passionate software developer with a strong focus on backend en
 
 
 * 🌍  I'm based in Nairobi
-<-- 🖥️  See my portfolio at [devmaxwel.com](http://devmaxwel.com) -->
 * ✉️  You can contact me at [eng.maxwel.ochieng@gmail.com](mailto:eng.maxwel.ochieng@gmail.com)
 * 🚀  I'm currently working on [EFAC ADMIN DASHBOARD](http://admin.efacke.org)
 * 🧠  I'm learning DEVOPS ENGINEERING
