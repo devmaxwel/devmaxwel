@@ -10,7 +10,7 @@ Hey there! I'm a passionate software developer with a strong focus on backend en
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [eng.maxwel.ochieng@gmail.com](mailto:eng.maxwel.ochieng@gmail.com)
-* 🚀  I'm currently working on [EFAC ADMIN DASHBOARD](http://admin.efacke.org)
+* 🚀  I'm currently working on [Esheria Lexchat](http://chat.esheria.co.ke)
 * 🧠  I'm learning DEVOPS ENGINEERING
 
 <a href="https://www.github.com/devmaxwel" target="_blank" rel="noreferrer"><img
