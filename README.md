@@ -10,8 +10,7 @@ Hey there! I'm a passionate software developer with a strong focus on backend & 
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [eng.maxwel.ochieng@gmail.com](mailto:eng.maxwel.ochieng@gmail.com)
-* 🚀  I'm currently working on [Esheria Lexchat](http://chat.esheria.co.ke)
-* 🧠  I'm learning DEVOPS ENGINEERING
+* 🧠  I'm learning Neural Networks In Artificial Intelligence
 
 <a href="https://www.github.com/devmaxwel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/devmaxwel?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitter.com/mochieng_" target="_blank" rel="noreferrer"><img
